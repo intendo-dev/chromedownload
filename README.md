@@ -1,2 +1,2 @@
-#Chrome Donwload
-Downlaod chrome
+# Chrome Download
+Download stuff from Google Chrome
